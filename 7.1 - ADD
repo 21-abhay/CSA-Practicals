@@ -1,0 +1,6 @@
+INP
+STA A
+INP
+ADD A
+HLT
+A:.data 1 0

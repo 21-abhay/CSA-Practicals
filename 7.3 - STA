@@ -1,0 +1,4 @@
+INP
+STA 0x008
+OUT
+HLT

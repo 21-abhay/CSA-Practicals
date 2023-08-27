@@ -1,0 +1,5 @@
+INP
+SNA
+STA 0x010
+OUT
+HLT

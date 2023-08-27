@@ -1,0 +1,13 @@
+INP
+SPA
+BUN H
+STA A
+L:INP
+SPA
+BUN H
+ADD A
+STA A
+OUT
+BUN L
+H:HLT
+A:.data 1 0

@@ -1,0 +1,4 @@
+LDA OP
+HLT
+OP: .data 1 15
+
